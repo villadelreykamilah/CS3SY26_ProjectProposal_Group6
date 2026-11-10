@@ -8,7 +8,7 @@ cvbbbc
 ### Group Members			    :
 ### Date (Proposal Date)  : Nov 5, 2026
 fdfhdfhfshsdhfhhtrthdfh
-### Project Description:
+### Project Description: this is cool
 
 - A brief summary of the project description and the need for it.
 
